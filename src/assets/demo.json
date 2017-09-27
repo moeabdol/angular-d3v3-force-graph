@@ -1,0 +1,177 @@
+{
+	"name": "Axis",
+	"color":1,
+	"collapse": 1,
+	"children": [
+		{
+		"name": "Branding",
+		"color":2,
+		"collapse":1,
+		"children": [
+			{
+			"name": "First_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "First_3", "size": 25},
+				{"name": "First_3", "size": 25},
+				{"name": "First_3", "size": 25},
+				{"name": "First_3", "size": 25}
+			]
+			},
+			{
+			"name": "First_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "First_3", "size": 30},
+				{"name": "First_3", "size": 30}
+			]
+			},{
+			"name": "First_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "First_3", "size": 35},
+				{"name": "First_3", "size": 35}
+			]
+			},{
+			"name": "First_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "First_3", "size": 40},
+				{"name": "First_3", "size": 40},
+				{"name": "First_3", "size": 40}
+			]
+			}
+		]
+		},
+		{
+		"name": "Strategy",
+		"color":2,
+		"collapse":1,
+		"children": [
+			{
+			"name": "Second_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "Second_3", "size": 25},
+				{"name": "Second_3", "size": 25},
+				{"name": "Second_3", "size": 25}
+			]
+			},
+			{
+			"name": "Second_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "Second_3", "size": 30},
+				{"name": "Second_3", "size": 30},
+				{"name": "Second_3", "size": 30}
+			]
+			},{
+			"name": "Second_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "Second_3", "size": 35},
+				{"name": "Second_3", "size": 35}
+			]
+			},{
+			"name": "Second_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "Second_3", "size": 40}
+			]
+			}
+		]
+		},
+		{
+		"name": "Digital Solutions",
+		"color":2,
+		"collapse":1,
+		"children": [
+			{
+			"name": "Second_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "Second_3", "size": 25},
+				{"name": "Second_3", "size": 25},
+				{"name": "Second_3", "size": 25}
+			]
+			},
+			{
+			"name": "Second_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "Second_3", "size": 30},
+				{"name": "Second_3", "size": 30},
+				{"name": "Second_3", "size": 30}
+			]
+			},{
+			"name": "Second_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "Second_3", "size": 35},
+				{"name": "Second_3", "size": 35}
+			]
+			},{
+			"name": "Second_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "Second_3", "size": 40}
+			]
+			}
+		]
+		},
+		{
+		"name": "Space Design",
+		"color":2,
+		"collapse":1,
+		"children": [
+			{
+			"name": "Second_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "Second_3", "size": 25},
+				{"name": "Second_3", "size": 25},
+				{"name": "Second_3", "size": 25}
+			]
+			},
+			{
+			"name": "Second_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "Second_3", "size": 30},
+				{"name": "Second_3", "size": 30},
+				{"name": "Second_3", "size": 30}
+			]
+			},{
+			"name": "Second_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "Second_3", "size": 35},
+				{"name": "Second_3", "size": 35}
+			]
+			},{
+			"name": "Second_2",
+			"color":3,
+			"collapse":1,
+			"children": [
+				{"name": "Second_3", "size": 40}
+			]
+			}
+		]
+		}
+	]
+}
